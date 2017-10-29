@@ -1,1 +1,1 @@
-# MNIST-NN
+# MNIST-Neural-Net
